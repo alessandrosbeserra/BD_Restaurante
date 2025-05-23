@@ -40,11 +40,11 @@ Subconsultas para cálculos intermediários
 Criação da VIEW resumo_pedido para simplificar o acesso aos dados integrados do pedido
 
 🚀 Como Executar
-Execute o script criacao_banco.sql para criar o banco e as tabelas.
+Execute o script definicao.sql para criar o banco e as tabelas.
 
 Execute o script insercao_dados.sql para popular as tabelas.
 
-Execute os arquivos de consulta, como consultas_avancadas.sql ou resumo_pedido.sql.
+Execute os arquivos de consulta, como consultas_avancadas.
 
 🛠️ Tecnologias Usadas
 SQL padrão
