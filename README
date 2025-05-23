@@ -1,5 +1,8 @@
 Projeto SQL - Sistema de Pedidos em Restaurante 🍽️
-Este projeto demonstra o uso de SQL em um cenário realista de gerenciamento de pedidos em um restaurante. Inclui modelagem do banco de dados, inserção de dados, criação de views, consultas com junções, agregações e condições para geração de insights.
+
+  Este projeto demonstra o uso de SQL em um cenário realista de gerenciamento de pedidos em um restaurante. 
+Inclui modelagem do banco de dados, inserção de dados, criação de views, consultas com junções, agregações e condições
+para geração de insights.
 
 🧱 Estrutura do Banco de Dados
 O banco de dados restaurante foi criado com as seguintes tabelas principais:
